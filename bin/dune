@@ -1,0 +1,5 @@
+(executable
+ (public_name final_project )
+ (name main)
+ (libraries cohttp cohttp-lwt-unix final_project batteries str core yojson core_unix)
+ (preprocess (pps lwt_ppx)))

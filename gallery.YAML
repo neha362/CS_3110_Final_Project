@@ -1,0 +1,36 @@
+---
+# Members of your group.
+group:  
+  - name: Michelle Zhao
+    netid: mz625
+  - name: Neha Sudarshan
+    netid: ns968
+  - name: Rachel Kan
+    netid: rk778
+
+# Your PM.
+pm:
+  name: Hannah Price
+  netid: hep43
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "CamlNom!"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ns968/CS_3110_Final_Project"
+# Replace the URL with your own demo video.
+demo-video-url: "https://youtu.be/b5zq4vikbAQ"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  CamlNom is a one-stop shop for Cornell students to decide where to eat depending on their cravings of the day. 
+  Users can select from a wide range of cuisines and dietary restrictions from each dining hall to see if it 
+  meets their needs. This will help students to not only select dining options that suit their 
+  interests and tastes the most, but also to aid students with dietary restrictions to make informed decisions about 
+  what and where they can eat based on their dietary needs. 
+  
+  These features will be enhanced by a feedback system where students are able to submit commentary or rankings of their 
+  experience. Students can also view others' feedback and filter by specific ratings. Students will also be able to share
+  their own favorite meals by creating a "plate" and detailing that dishes they added. 
+  Updates are made live whenever Cornell Dining refreshes their dining page and loads in real time data so that all the 
+  information provided to users are up to date. 
+

@@ -1,0 +1,32 @@
+Recipe,Cuisine,Vegetarian,Vegan,Rose House Dining Room,104West!,Becker House Dining Room,Cook House Dining Room,Jansen's Dining Room at Bethe House,Keeton House Dining Room,Morrison Dining,North Star Dining Room,Okenshields,Risley Dining Room,Straight from the Market
+Steamed Jasmine Rice,Asian,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Tofu Pad Thai,Thai,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Thai BBQ Chicken,Thai,N,N,N,N,N,N,N,N,N,N,N,Y,N
+"Roasted Bok Choy, Garlic & Eggplant",Asian,N,N,N,N,N,N,N,N,N,N,N,Y,N
+Sweet Chili Dipping Sauce,None,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Sesame Vinaigrette,None,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Sesame & Herb Baked Tofu,None,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Seaweed Salad,Asian,N,N,N,N,N,N,N,N,N,N,N,Y,N
+Risley GF Salad Bar,None,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+"Poke Bowl Bar ",Hawaiian,N,Y,N,N,N,N,N,N,N,N,N,Y,N
+Poke Bar Toppings,Hawaiian,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Poke Bar Sesame Tuna,Hawaiian,N,N,N,N,N,N,N,N,N,N,N,Y,N
+Poke Bar Sesame Tofu,Hawaiian,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Overnight Oats with Apple,None,Y,Y,N,N,N,N,N,N,N,N,N,Y,N
+Cornell Unsweetened Plain Yogurt,None,Y,N,N,N,N,N,N,N,N,N,N,Y,N
+Assorted Desserts,Dessert,N,N,N,N,N,N,N,N,N,N,N,Y,N
+Nacho Bar,Mexican,Y,Y,N,N,N,N,N,N,N,N,Y,Y,N
+Cilantro Lime Brown Rice,Mexican,Y,Y,N,N,N,N,N,N,N,Y,Y,Y,N
+Steamed Brown Rice,None,Y,Y,N,N,N,Y,N,N,N,Y,Y,Y,N
+Cornell Egg Drop Soup,None,N,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N
+House Made Kimchi,Korean,N,N,N,N,N,N,Y,N,N,N,N,Y,N
+Steamed Asian Vegetables,None,Y,N,N,N,N,N,Y,N,N,N,N,Y,N
+Fresh Fruit Salad,None,Y,Y,N,N,N,N,Y,Y,N,N,Y,Y,N
+Traditional Hummus,Mediterranean,Y,Y,Y,N,N,N,N,Y,N,N,N,Y
+Cornell Dairy Yogurt,None,Y,N,Y,N,Y,Y,Y,Y,N,N,Y,Y
+Steamed Jasmine Rice,Chinese,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Coconut Chia Seed Pudding,Dessert,Y,Y,N,N,N,N,N,N,Y,N,N,Y
+Fresh Whole Fruit,None,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y
+Cornell Dairy Ice Cream,Dessert,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Hot & Cold Beverages,None,Y,Y,N,Y,N,Y,N,Y,N,Y,N,Y
+Waffle Bar,None,N,N,Y,Y,N,Y,Y,N,Y,N,Y,Y

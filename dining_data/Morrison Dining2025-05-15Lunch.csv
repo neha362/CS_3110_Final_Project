@@ -1,0 +1,46 @@
+Recipe,Cuisine,Vegetarian,Vegan,Rose House Dining Room,104West!,Becker House Dining Room,Cook House Dining Room,Jansen's Dining Room at Bethe House,Keeton House Dining Room,Morrison Dining,North Star Dining Room,Okenshields,Risley Dining Room,Straight from the Market
+Chana Masala,Asian,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Pork & Vegetable Stir Fry,None,N,N,N,N,N,N,N,N,Y,N,N,N,N
+Miso Soup,Japanese,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Gallo Beans & Rice,Mexican,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Cilantro Lime Black Beans,Mexican,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Chipotle Lime Chicken Thigh,Mexican,N,N,N,N,N,N,N,N,Y,N,N,N,N
+Cauliflower Gremolata,Italian,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Beef Fajita Filling,Mexican,N,N,N,N,N,N,N,N,Y,N,N,N,N
+"BBQ Beef and Smokey Onion Soup ",None,N,N,N,N,N,N,N,N,Y,N,N,N,N
+"Stir Fry Cabbage, Mushrooms & Snow Peas",None,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Spinach Strawberry & Almond Salad,None,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Plantiful Buddha Bowls,None,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Fire Roasted Red Peppers,NOne,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Chicken Salad,None,N,N,N,N,N,N,N,N,Y,N,N,N,N
+"Bulgur, Chickpea, Feta & Tomato Salad",Greek,N,N,N,N,N,N,N,N,Y,N,N,N,N
+Bao Bun Bar,Chinese,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+"Assorted Salads, Veggies & Greens",None,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Vegetable Fried Rice with Egg,Chinese,N,N,N,N,N,Y,N,N,Y,N,Y,N,N
+Sausage Pizza,Italian,N,N,N,N,N,N,N,N,Y,Y,Y,N,N
+Cumin Basmati Rice,Indian,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,N
+"Egg Salad ",None,N,N,N,Y,N,N,N,N,Y,N,N,N,N
+Chicken Tikka Masala,Indian,N,N,N,N,Y,Y,Y,N,Y,Y,N,Y,N
+Fruit & Yogurt Bar,None,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,N
+Chana Masala,Indian,Y,Y,Y,Y,Y,Y,N,N,Y,N,N,Y
+Coleslaw,Polish,N,N,N,Y,N,N,N,N,Y
+Overnight Oats with Blueberry & Banana,Dessert,Y,Y,N,N,N,N,N,N,Y,N,N,Y
+Coconut Chia Seed Pudding,Dessert,Y,Y,N,N,N,N,N,N,Y,N,N,Y
+Pepperoni Pizza,Italian,N,N,N,N,N,N,Y,N,Y,N,Y
+Vegan Cheese Pizza,Italian,Y,Y,N,N,N,N,N,N,Y
+Fresh Whole Fruit,None,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y
+Assorted Hot & Cold Beverages,None,Y,Y,N,Y,N,N,N,N,Y
+Flavor Infused Water Station,None,Y,Y,N,N,N,N,N,N,Y,Y
+Fresh Baked Vegan Cookies,Dessert,Y,Y,N,N,N,N,N,N,Y,Y
+Dessert Bars,Dessert,N,N,N,N,N,N,N,N,Y,N,Y
+Cornell Dairy Ice Cream,Dessert,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Dole Fruit Soft Serve,Dessert,Y,Y,N,N,N,N,N,N,Y,Y
+Assorted Cereals,None,Y,Y,N,N,N,N,N,N,Y
+Assorted Salad Bar Toppings,None,Y,Y,N,N,N,N,N,N,Y
+Assorted Roasted Vegetables,None,Y,Y,N,N,N,N,N,N,Y
+Hearty Whole Grains & Legumes,None,Y,Y,N,N,N,N,N,N,Y
+Salad Dressing,None,Y,N,N,N,N,N,N,N,Y
+Chef's Choice Pasta,Italian,Y,Y,N,N,N,N,N,N,Y
+Cheese Pizza,Italian,Y,N,N,N,N,N,Y,N,Y,N,Y
+Fresh Baked Cookies,Dessert,N,N,N,Y,Y,N,N,N,Y,Y,Y
+Waffle Bar,None,N,N,Y,Y,N,Y,Y,N,Y,N,Y,Y

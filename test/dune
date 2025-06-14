@@ -1,0 +1,5 @@
+(tests
+ (names test_final_project rating_tests plates_tests dictionary_tests dining_tests)
+ (libraries ounit2 final_project qcheck unix)
+ (deps (glob_files_rec ../data/*) (glob_files_rec ../driver_data/*))
+)

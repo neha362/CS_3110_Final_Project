@@ -1,0 +1,43 @@
+Recipe,Cuisine,Vegetarian,Vegan,Rose House Dining Room,104West!,Becker House Dining Room,Cook House Dining Room,Jansen's Dining Room at Bethe House,Keeton House Dining Room,Morrison Dining,North Star Dining Room,Okenshields,Risley Dining Room,Straight from the Market
+Wok Stir Fry Cabbage,Chinese,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y
+Thai Salad,Thai,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y
+Taco Pizza,Mexican,Y,N,N,N,N,N,N,N,Y,N,N,N,Y
+Rosemary Focaccia,None,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y
+Roasted Radish,None,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y
+Ricotta Eggplant Bake,Italian,N,N,N,N,N,N,N,N,Y,N,N,N,Y
+Mozzarella & Mushroom Arancini,Italian,Y,N,N,N,N,N,N,N,Y,N,N,N,Y
+"Ma Po Beef & Tofu ",Chinese,N,N,N,N,N,N,N,N,Y,N,N,N,Y
+"MSC Lemon Baked Cod ",None,N,N,N,N,N,N,N,N,Y,N,N,N,Y
+"Barley, Chickpea & Feta Salad",Mediterranean,Y,N,N,N,N,N,N,N,Y,N,N,N,Y
+Plantiful Taco Bar,Mexican,N,N,N,N,N,N,N,N,Y,N,N,N,N
+Ramen Bar,Japanese,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N
+Italian Sausage with Peppers & Onions,Italian,N,N,N,N,Y,Y,N,N,Y,N,N,N,N
+Cajun Tofu & Black Bean Salsa,Mexican,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+BBQ Chicken,American,N,N,N,N,Y,N,Y,N,Y,N,Y,N,N
+Chicken Salad,None,N,N,N,N,N,N,N,N,Y,N,N,N,N
+"Assorted Salads, Veggies & Greens",None,Y,Y,N,N,N,N,N,N,Y,N,N,N,N
+Assorted Fresh Fruit & Cornell Yogurt,None,Y,N,N,N,N,N,N,N,Y,N,N,N,N
+Vegetable Fried Rice with Egg,Chinese,N,N,N,N,N,Y,N,N,Y,N,Y,N,N
+"Egg Salad ",None,N,N,N,Y,N,N,N,N,Y,N,N,N,N
+Salt Potatoes,None,Y,Y,N,N,N,N,Y,N,Y,N,Y,N,N
+Coleslaw,Polish,N,N,N,Y,N,N,N,N,Y
+Overnight Oats with Blueberry & Banana,Dessert,Y,Y,N,N,N,N,N,N,Y,N,N,Y
+Coconut Chia Seed Pudding,Dessert,Y,Y,N,N,N,N,N,N,Y,N,N,Y
+Pepperoni Pizza,Italian,N,N,N,N,N,N,Y,N,Y,N,Y
+Vegan Cheese Pizza,Italian,Y,Y,N,N,N,N,N,N,Y
+Fresh Whole Fruit,None,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y
+Assorted Hot & Cold Beverages,None,Y,Y,N,Y,N,N,N,N,Y
+Fresh Baked Vegan Cookies,Dessert,Y,Y,N,N,N,N,N,N,Y,Y
+Dessert Bars,Dessert,N,N,N,N,N,N,N,N,Y,N,Y
+Cornell Dairy Ice Cream,Dessert,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Dole Fruit Soft Serve,Dessert,Y,Y,N,N,N,N,N,N,Y,Y
+Assorted Cereals,None,Y,Y,N,N,N,N,N,N,Y
+Assorted Salad Bar Toppings,None,Y,Y,N,N,N,N,N,N,Y
+Assorted Roasted Vegetables,None,Y,Y,N,N,N,N,N,N,Y
+Herb Roasted Summer & Zucchini Squash,None,Y,Y,N,N,N,Y,N,N,Y
+Hearty Whole Grains & Legumes,None,Y,Y,N,N,N,N,N,N,Y
+Salad Dressing,None,Y,N,N,N,N,N,N,N,Y
+Chef's Choice Pasta,Italian,Y,Y,N,N,N,N,N,N,Y
+Cheese Pizza,Italian,Y,N,N,N,N,N,Y,N,Y,N,Y
+Fresh Baked Cookies,Dessert,N,N,N,Y,Y,N,N,N,Y,Y,Y
+Waffle Bar,None,N,N,Y,Y,N,Y,Y,N,Y,N,Y,Y
